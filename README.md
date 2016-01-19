@@ -7,4 +7,4 @@ This repository includes Python scripts to explore geocoded household survey dat
 3) ArcPy Site Package  
 4) Household Survey data with latitude longitude coordinates and an area of interest polygon shapefile  
 
-Note: I created this as my final project for a class called Programming for Geospatial Applications but it supports that work that I am doing professionally.
+Note: I created this as my final project for a class called Programming for Geospatial Applications.  It also supports that work that I am doing professionally.
